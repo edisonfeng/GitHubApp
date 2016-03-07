@@ -16,7 +16,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    //未新建分支前，未提交的部分
     self.view.backgroundColor=[UIColor yellowColor];
 }
 
