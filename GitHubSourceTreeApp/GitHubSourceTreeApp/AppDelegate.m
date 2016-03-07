@@ -16,7 +16,6 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    NSLog(@"yellowDev confirmed again");
     return YES;
 }
 

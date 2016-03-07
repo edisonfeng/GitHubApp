@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.view.backgroundColor=[UIColor yellowColor];
-    NSLog(@"yellowDev confirmed!!");
+    NSLog(@"yellow complete");
 }
 
 - (void)didReceiveMemoryWarning {
