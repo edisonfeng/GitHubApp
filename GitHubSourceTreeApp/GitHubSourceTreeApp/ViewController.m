@@ -16,7 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    //未新建分支前，未提交的部分
+    self.view.backgroundColor=[UIColor yellowColor];
 }
 
 - (void)didReceiveMemoryWarning {
