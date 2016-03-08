@@ -17,7 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"dev branch");
+    
     NSLog(@"devA");
+    NSLog(@"devB");
 }
 
 - (void)didReceiveMemoryWarning {
